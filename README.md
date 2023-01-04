@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larryokubasu5460
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently doing projects with PHP and .NET
+- 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me @larry_okubasu on twitter
 
 <!---
